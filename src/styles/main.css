@@ -1,0 +1,6 @@
+.jumbotron {
+  background-image: url("../image/pxfuel.jpg");
+  background-size: cover;
+  height: 400px;
+  background-color: rgba(0, 0, 0, 0.1); /* rgba allows you to set the alpha (opacity) value */
+}
